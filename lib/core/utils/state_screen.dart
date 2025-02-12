@@ -1,0 +1,1 @@
+enum StateScreen{init  , loading,loaded, error}
